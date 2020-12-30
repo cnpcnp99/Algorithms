@@ -1,5 +1,5 @@
-## Algorithms
-# This repository exists for Preparing coding-test
+# Algorithms
+## This repository exists for Preparing coding-test
 
 > Especially in case of Baekjoon Online Judge, There is approximate system of the problem difficulty.
 > the level is similar to the LoL(League of Legends)s' tier system.
